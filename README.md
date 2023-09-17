@@ -24,8 +24,11 @@ npm -v
 ## 项目
 
 1. [quick-start](./quick-start/)
+2. [tutorial](./tutorial/)
 
 ## 参考
 
 1. [What is Electron?](https://www.electronjs.org/docs/latest/)
 2. [Quick Start](https://www.electronjs.org/docs/latest/tutorial/quick-start)
+3. [Prerequisites](https://www.electronjs.org/docs/latest/tutorial/tutorial-prerequisites)
+4. [Building your First App](https://www.electronjs.org/docs/latest/tutorial/tutorial-first-app)
