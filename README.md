@@ -32,3 +32,4 @@ npm -v
 2. [Quick Start](https://www.electronjs.org/docs/latest/tutorial/quick-start)
 3. [Prerequisites](https://www.electronjs.org/docs/latest/tutorial/tutorial-prerequisites)
 4. [Building your First App](https://www.electronjs.org/docs/latest/tutorial/tutorial-first-app)
+5. [Using Preload Scripts](https://www.electronjs.org/docs/latest/tutorial/tutorial-preload)

@@ -4,6 +4,7 @@
 
 1. [Prerequisites](https://www.electronjs.org/docs/latest/tutorial/tutorial-prerequisites)
 2. [Building your First App](https://www.electronjs.org/docs/latest/tutorial/tutorial-first-app)
+3. [Using Preload Scripts](https://www.electronjs.org/docs/latest/tutorial/tutorial-preload)
 
 ## Prerequisites
 
@@ -391,3 +392,5 @@ The executable runs the JavaScript entry point found in the main property of you
 `Renderer processes` (or renderers for short) are responsible for displaying graphical content. You can load a web page into a renderer by pointing it to either a web address or a local HTML file. Renderers behave very similarly to regular web pages and have access to the same web APIs.
 
 In the next section of the tutorial, we will be learning how to augment the renderer process with privileged APIs and how to communicate between processes.
+
+## Using Preload Scripts
